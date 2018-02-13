@@ -214,8 +214,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  faraday (= 0.13.1)
+  ffi (= 1.9.18)
   github-pages (= 163)
+  i18n (= 0.9.1)
   jekyll-paginate
+  minitest (= 5.11.1)
+  nokogiri (= 1.8.1)
+  tzinfo (= 1.2.4)
+  tzinfo-data
 
 BUNDLED WITH
    1.16.1
