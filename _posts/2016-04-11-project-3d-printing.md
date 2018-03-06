@@ -17,13 +17,13 @@ This was the more interesting, and far harder, part of the event. We set up a se
 Below are the initial scans of myself. The first image is the colorized version that I added just for comparison. The second image is raw STL graphic file.
 
 
-| ![3D Image Color]({{"/images/lucas_color.png"}}) | ![3D Image STL]({{"/images/lucas_model.png"}}) |
+| ![3D Image Color]({{"/images/3dprint/lucas_color.png"}}) | ![3D Image STL]({{"/images/3dprint/lucas_model.png"}}) |
 |:--:|:--:|
 |Color Scan of Myself|Raw STL Graphic File|
 
 I have a photo of the printed result. The print was one of our first runs, so it wasn't perfect, but after seeing it, we decided to go forward with the project. The picture is below.
 
-| ![3D Image Color]({{"/images/my_3d_print.jpg"}}) |
+| ![3D Image Color]({{"/images/3dprint/my_3d_print.jpg"}}) |
 |:--:|
 |3D Print of Myself|
 

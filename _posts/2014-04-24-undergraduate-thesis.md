@@ -11,7 +11,7 @@ My thesis was titled "Alignment of Robot Orientations Using Limited Sensing Capa
 The two robots used in the project were the [Scribbler S2](https://www.parallax.com/product/28136) robots. These robots came with limited sensors. They contained a speaker, a microphone, light sensors, infrared emitters, and infrared detectors. This project did not make use of the light sensors. The infrared sensors worked by emitting infrared forward from the emitters, the infrared would then bounce off any objects in front of them, and the infrared detectors would detect the signal strength bounced back giving the robot obstacle detectiong. 
 
 {:refdef: style="text-align: center;"}
-![Scribber S2 Robots]({{"/images/scribblers.png"}})
+![Scribber S2 Robots]({{"/images/undergrad_thesis/scribblers.png"}})
 {: refdef}
 
 Working with two robots, each robot could pick up the others sensor if it was in front of it. The problem was, the sensors worked in a wide arc and the signals could reflect off of objects, so the robots couldn't just assume it was facing the other robot when a signal was detected.
@@ -36,8 +36,8 @@ To accomplish this method, there was one major problem. The robots had no built 
 In order to solve the problem, I decided to create a messaging system that made use of three tones from the speaker. I used a low tone, medium tone, and high tone. These frequencies were easily discernable from one another. Many messages were needed including a message for each slice and several different confirmation messages. In order to create several messages, the tones were strung together. The robot listening would listen to the whole sound wave, and then process to get the sequence of tones. The main problem with this was the cheap speaker and microphone. The sound waves were not always clear, so a smoothing procedure had to be applied to each wave. A demonstration can be seen in the graphs below.
 
 {:refdef: style="text-align: center;"}
-![Rough]({{"/images/message_graph_rough.png"}})
-![Smooth]({{"/images/message_graph_smooth.png"}})
+![Rough]({{"/images/undergrad_thesis/message_graph_rough.png"}})
+![Smooth]({{"/images/undergrad_thesis/message_graph_smooth.png"}})
 {: refdef}
 
 In the graphs above, we have a red line representing the frequencies of the signal received and a blue line which represents the cutoff for the low, medium, and high tones. Anything above the top blue line is considered high, anything below the bottom blue linw is considered low, and anything in between is considered medium. In the first graph, you can see several dips highlighted in yellow that are noise that trigger false tones. In bottom graph, you can see what it looks like after the smoothing process was applied.

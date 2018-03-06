@@ -7,17 +7,29 @@ use-site-title: true
 
 ***
 
-### University of Southern Mississippi (2015 - 2017)
-- Computational Science Ph.D. (Incomplete), 4.0 GPA
+### Co-Lin Community College (2009 - 2011)
+- Computer Science A.A. (Transfered), 4.0 GPA
 
-After finishing my Masters Degree, I decided to continue into the PhD program at the University of Southern Mississippi. During this time, there were two extracuricular accomplishments that stood out. The first was the third publication I was involved in titled [”Detection of Plan Deviation in Multi-Agent Systems”]({{ site.baseurl }}/papers/deviation_detection.pdf) which was published in the Association for Advancement of Artificial Intelligence (AAAI) 2016 conference journal. The second was being able to travel to and attend the conference where the paper was shown as a poster presentation. 
+I began my education at a small community college located in Wesson, Mississippi. I enrolled in the Computer Science program in order to obtain an Associates Degree. During my brief time there, I achieved several things. An essay I wrote titled ”Robotic Automation and the Future Economy” took 3rd place in a school wide competition and was published in the [school's yearly periodical]({{ site.baseurl }}/papers/microcosm_2011.pdf). I also received the Beal Family Scholarship which is awarded to the Computer Science student with the highest GPA. 
 
-I completed five semesters before deciding to withdraw and pursue employment. At the time of withdrawal, I had a 4.0 GPA.
-
+I did not complete the Associates Degree. I maintained a 4.0 GPA, but I decided to transfer to the University of Southern Mississippi to pursue a Bachelors Degree.
 
 {: .box-note}
 **Classes Taken:**
-Data Analysis Techniques, Data Handling Techniques, Various in House Seminars for Credit, Various Research Projects for Credit
+ Intermediate English, College Algebra, Art Appreciation, Basic Computer Programming, English Composition I, World Civilizations I, Trigonometry, Calculus I, English Composition II, World Civilization II, Weight Lifting, Nutrition and Wellness, General Physics I, General Physics I Lab, Computer Programming I, American Literature I, World Geography, General Physics II, General Physics II Lab, Public Speaking I
+
+***
+
+### University of Southern Mississippi (2011 - 2014)
+- Computer Science B.S., _summa cum laude_, 4.0 GPA
+
+I transferred to the University of Southern Mississippi, located in Hattiesburg, Mississippi, in 2011. I transferred into the School of Computing's Computer Science program. During my undergraduate time I was selected for a summer apprenticeship with one of the professors under the U.S. Army Research Office's Undergraduate Research Apprenticeship Program (URAP). More info on my participation in the URAP program can be found under [work experience]({{ site.baseurl }}/work). I also applied to be involved in the honors program. In order to graduate with the latin designation, we were required to do an undergraduate thesis. Info on my undergraduate thesis can be found on the [project page here]({{ site.baseurl }} {% link _posts/2014-04-24-undergraduate-thesis.md %}).
+
+I completed my Bachelors Degree with a 4.0 GPA and received the latin honors designation of _summa cum laude_.
+
+{: .box-note}
+**Classes Taken:**
+Computer Science I, Computer Science I Lab, Computers and Society, Calculus II with Analytical Geometry, General Physics with Calculus, General Physics with Calculus Lab, Computer Science II, Math Statistics I, Calculus III with Analytical Geometry, General Physics II with Calculus, General Physics II with Calculus Lab, Multivariable Calculus, Computer Systems, Foundations of Computer Science, Data Structures, Introduction to Java, Unix Operating System, Computer Organizations, Programming Languages, Introduction to Artificial Intelligence, Advanced Java, Operating Systems I, Database Management Design, Algorithms, Software Design, Software Design Lab, Object Oriented Programming, Language Theory, Software Engineering II, Dynamic Web Development
 
 ***
 
@@ -38,26 +50,25 @@ Parallel Programming Technology, Analytical Models, Advanced Computer Algorithms
 
 ***
 
-### University of Southern Mississippi (2011 - 2014)
-- Computer Science B.S., _summa cum laude_, 4.0 GPA
+### University of Southern Mississippi (2015 - 2017)
+- Computational Science Ph.D. (Incomplete), 4.0 GPA
 
-I transferred to the University of Southern Mississippi, located in Hattiesburg, Mississippi, in 2011. I transferred into the School of Computing's Computer Science program. During my undergraduate time I was selected for a summer apprenticeship with one of the professors under the U.S. Army Research Office's Undergraduate Research Apprenticeship Program (URAP). More info on my participation in the URAP program can be found under [work experience]({{ site.baseurl }}/work). I also applied to be involved in the honors program. In order to graduate with the latin designation, we were required to do an undergraduate thesis. Info on my undergraduate thesis can be found on the [project page here]({{ site.baseurl }} {% link _posts/2014-04-24-undergraduate-thesis.md %}).
+After finishing my Masters Degree, I decided to continue into the PhD program at the University of Southern Mississippi. During this time, there were two extracuricular accomplishments that stood out. The first was the third publication I was involved in titled [”Detection of Plan Deviation in Multi-Agent Systems”]({{ site.baseurl }}/papers/deviation_detection.pdf) which was published in the Association for Advancement of Artificial Intelligence (AAAI) 2016 conference journal. The second was being able to travel to and attend the conference where the paper was shown as a poster presentation. 
 
-I completed my Bachelors Degree with a 4.0 GPA and received the latin honors designation of _summa cum laude_.
+I completed five semesters before deciding to withdraw and pursue employment. At the time of withdrawal, I had a 4.0 GPA.
+
 
 {: .box-note}
 **Classes Taken:**
-Computer Science I, Computer Science I Lab, Computers and Society, Calculus II with Analytical Geometry, General Physics with Calculus, General Physics with Calculus Lab, Computer Science II, Math Statistics I, Calculus III with Analytical Geometry, General Physics II with Calculus, General Physics II with Calculus Lab, Multivariable Calculus, Computer Systems, Foundations of Computer Science, Data Structures, Introduction to Java, Unix Operating System, Computer Organizations, Programming Languages, Introduction to Artificial Intelligence, Advanced Java, Operating Systems I, Database Management Design, Algorithms, Software Design, Software Design Lab, Object Oriented Programming, Language Theory, Software Engineering II, Dynamic Web Development
+Data Analysis Techniques, Data Handling Techniques, Various in House Seminars for Credit, Various Research Projects for Credit
+
 
 ***
 
-### Co-Lin Community College (2009 - 2011)
-- Computer Science A.A. (Transfered), 4.0 GPA
+### Online Courses
+The following are several online courses and programs I have taken. I plan to list anything I here that I feel is relevant to things I have learned.
 
-I began my education at a small community college located in Wesson, Mississippi. I enrolled in the Computer Science program in order to obtain an Associates Degree. During my brief time there, I achieved several things. An essay I wrote titled ”Robotic Automation and the Future Economy” took 3rd place in a school wide competition and was published in the [school's yearly periodical]({{ site.baseurl }}/papers/microcosm_2011.pdf). I also received the Beal Family Scholarship which is awarded to the Computer Science student with the highest GPA. 
+- **Machine Learning** - Stanford via [Coursera.com](http://www.coursera.com)
+- **Linear Programming** - University of Colorado via [Coursera.com](http://www.coursera.com)
 
-I did not complete the Associates Degree. I maintained a 4.0 GPA, but I decided to transfer to the University of Southern Mississippi to pursue a Bachelors Degree.
 
-{: .box-note}
-**Classes Taken:**
- Intermediate English, College Algebra, Art Appreciation, Basic Computer Programming, English Composition I, World Civilizations I, Trigonometry, Calculus I, English Composition II, World Civilization II, Weight Lifting, Nutrition and Wellness, General Physics I, General Physics I Lab, Computer Programming I, American Literature I, World Geography, General Physics II, General Physics II Lab, Public Speaking I

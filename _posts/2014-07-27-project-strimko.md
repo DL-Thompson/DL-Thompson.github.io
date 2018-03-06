@@ -9,7 +9,7 @@ This project led to a publication in the conference journal of the Association f
 In Strimko, you have grid of circles, but the circles are also connected to each other. Like Sudoku, the grid must contain all the numbers from 1 through the max size, so for a 4x4 grid each row and column must contain 1,2,3, and 4 in some order. However, in Strimko, instead of the grids containing squares that must also contain the numbers, it contains chains that stretch all over the board. These chains must also contain the numbers in some order. As can be seen in the below image, each column, row, and chain contain some ordering of 1 through 4.
 
 {:refdef: style="text-align: center;"}
-![Strimko Solved]({{"/images/strimko_solved.png"}})
+![Strimko Solved]({{"/images/strimko/strimko_solved.png"}})
 {: refdef}
 
 To create the solver, the puzzle is represented as propositional logic. Propositional logic is generated as follows.
@@ -25,7 +25,7 @@ These four sets of disjunctions, will be out list of starting facts. Once a numb
 The final propositon is related to the previous, it states that cell (i,j) may contain nothing other than k. It takes the form $$\neg c_{i,j}^{1} \land \neg c_{i,j}^{2} \land ... \land \neg c_{i,j}^{k-1} \land \neg c_{i,j}^{k+1} \land ... \land \neg c_{i,j}^{n}$$
 
 {:refdef: style="text-align: center;"}
-![Strimko Solved]({{"/images/strimko_unsolved.png"}})
+![Strimko Solved]({{"/images/strimko/strimko_unsolved.png"}})
 {: refdef}
 
 Since this is used as a classroom assignment, I can't go into too much detail of the implentation, but I can make a brief example of the logic behind how this works. Take the above image for example. 

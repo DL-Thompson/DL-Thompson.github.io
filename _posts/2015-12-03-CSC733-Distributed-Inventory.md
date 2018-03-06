@@ -9,9 +9,6 @@ As for the project itself, it was a basic inventory control system. The problem 
 
 The project report showing the website and giving more implementation details can be found below. The code for the project can be found on [my Github page.]()
 
-
-
-
 <br>
 <object data="/papers/CSC733-Final-Project.pdf" type="application/pdf" width="100%" height="750">
   Your web browser doesn't have a PDF plugin. Instead you can <a href="/papers/CSC424-Final-Project.pdf">click here to download the PDF file.</a>
