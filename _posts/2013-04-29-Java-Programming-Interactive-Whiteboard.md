@@ -7,7 +7,7 @@ categories: Various
 
 This is a project that I worked on for my Advanced Java class back when I was an undergraduate. It is an interactive whiteboard program. Basically, its Microsoft Paint with a chat window that two people can draw and chat online. 
 
-One client acts as the host, and the other person will connect to their ip. Once connected, what one person draws on their screen is also drawn on the other persons screen. The chat window functions like a normal chat window. There are several different tools for drawing including a brush, a rectangle, a line, a circle, and an erase. They all have selectable sizes. There is also a color pallete.
+One client acts as the host, and the other person will connect to their IP address. Once connected, what one person draws on their screen is also drawn on the other persons screen. The chat window functions like a normal chat window. There are several different tools for drawing including a brush, a rectangle, a line, a circle, and an erase. They all have selectable sizes. There is also a color palette.
 
 A demonstration can be seen below, and the code can be found [on my Github page]().
 

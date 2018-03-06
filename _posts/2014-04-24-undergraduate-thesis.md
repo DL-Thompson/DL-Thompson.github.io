@@ -8,7 +8,7 @@ At the University of Southern Mississippi, in order to graduate with a latin des
 
 My thesis was titled "Alignment of Robot Orientations Using Limited Sensing Capabilities". In short, the thesis dealt with getting two robots with limited sensor technology to line up in front of each other. The idea being that many multi-robotic applications require the robots to start facing each other. 
 
-The two robots used in the project were the [Scribbler S2](https://www.parallax.com/product/28136) robots. These robots came with limited sensors. They contained a speaker, a microphone, light sensors, infrared emitters, and infrared detectors. This project did not make use of the light sensors. The infrared sensors worked by emitting infrared forward from the emitters, the infrared would then bounce off any objects in front of them, and the infrared detectors would detect the signal strength bounced back giving the robot obstacle detectiong. 
+The two robots used in the project were the [Scribbler S2](https://www.parallax.com/product/28136) robots. These robots came with limited sensors. They contained a speaker, a microphone, light sensors, infrared emitters, and infrared detectors. This project did not make use of the light sensors. The infrared sensors worked by emitting infrared forward from the emitters, the infrared would then bounce off any objects in front of them, and the infrared detectors would detect the signal strength bounced back giving the robot obstacle detection. 
 
 {:refdef: style="text-align: center;"}
 ![Scribber S2 Robots]({{"/images/undergrad_thesis/scribblers.png"}})
@@ -33,7 +33,7 @@ In order to solve the problem, I approached it with a brute force method. The ro
 
 To accomplish this method, there was one major problem. The robots had no built in communication sensors or algorithms. The only sensors to be used were the speaker and microphone which were not very well made. So, while the rotations and measurements were fairly straight forward, the communication presented somewhat of a challenge.
 
-In order to solve the problem, I decided to create a messaging system that made use of three tones from the speaker. I used a low tone, medium tone, and high tone. These frequencies were easily discernable from one another. Many messages were needed including a message for each slice and several different confirmation messages. In order to create several messages, the tones were strung together. The robot listening would listen to the whole sound wave, and then process to get the sequence of tones. The main problem with this was the cheap speaker and microphone. The sound waves were not always clear, so a smoothing procedure had to be applied to each wave. A demonstration can be seen in the graphs below.
+In order to solve the problem, I decided to create a messaging system that made use of three tones from the speaker. I used a low tone, medium tone, and high tone. These frequencies were easily discernible from one another. Many messages were needed including a message for each slice and several different confirmation messages. In order to create several messages, the tones were strung together. The robot listening would listen to the whole sound wave, and then process to get the sequence of tones. The main problem with this was the cheap speaker and microphone. The sound waves were not always clear, so a smoothing procedure had to be applied to each wave. A demonstration can be seen in the graphs below.
 
 {:refdef: style="text-align: center;"}
 ![Rough]({{"/images/undergrad_thesis/message_graph_rough.png"}})

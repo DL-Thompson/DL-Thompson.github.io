@@ -22,7 +22,7 @@ The second disjunction type will be for each cell (i,j) and will look like $$c_{
 
 These four sets of disjunctions, will be out list of starting facts. Once a number has been chosen, i.e when $$c_{ij}^{k} = true$$, we know (i,j) must contain k. Since a correct number is known, we can add a new conjunction of the form $$\neg c_{i,1}^{k} \land \neg c_{i,2}^{k} \land ... \land \neg c_{i,j-1}^{k} \land ... \land \neg c_{i,n}^{k} $$ which means that the number k can only occur once in the entire row. This same conjunction can be created for the columns and chains.
 
-The final propositon is related to the previous, it states that cell (i,j) may contain nothing other than k. It takes the form $$\neg c_{i,j}^{1} \land \neg c_{i,j}^{2} \land ... \land \neg c_{i,j}^{k-1} \land \neg c_{i,j}^{k+1} \land ... \land \neg c_{i,j}^{n}$$
+The final proposition is related to the previous, it states that cell (i,j) may contain nothing other than k. It takes the form $$\neg c_{i,j}^{1} \land \neg c_{i,j}^{2} \land ... \land \neg c_{i,j}^{k-1} \land \neg c_{i,j}^{k+1} \land ... \land \neg c_{i,j}^{n}$$
 
 {:refdef: style="text-align: center;"}
 ![Strimko Solved]({{"/images/strimko/strimko_unsolved.png"}})

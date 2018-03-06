@@ -3,6 +3,7 @@ layout: default
 title: Lucas Thompson
 subtitle: This is my current resume.
 use-site-title: true
+comments: true
 ---
 
 <object data="/papers/Resume_Lucas_Thompson.pdf" type="application/pdf" width="100%" height="750">

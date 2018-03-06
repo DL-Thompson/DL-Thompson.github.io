@@ -3,12 +3,13 @@ layout: default
 title: Education
 subtitle: This section contains information on my education including degrees, classes, accomplishments, and other information.
 use-site-title: true
+comments: true
 ---
 
 ***
 
 ### Co-Lin Community College (2009 - 2011)
-- Computer Science A.A. (Transfered), 4.0 GPA
+- Computer Science A.A. (Incomplete, Transferred), 4.0 GPA
 
 I began my education at a small community college located in Wesson, Mississippi. I enrolled in the Computer Science program in order to obtain an Associates Degree. During my brief time there, I achieved several things. An essay I wrote titled ”Robotic Automation and the Future Economy” took 3rd place in a school wide competition and was published in the [school's yearly periodical]({{ site.baseurl }}/papers/microcosm_2011.pdf). I also received the Beal Family Scholarship which is awarded to the Computer Science student with the highest GPA. 
 
@@ -23,9 +24,9 @@ I did not complete the Associates Degree. I maintained a 4.0 GPA, but I decided 
 ### University of Southern Mississippi (2011 - 2014)
 - Computer Science B.S., _summa cum laude_, 4.0 GPA
 
-I transferred to the University of Southern Mississippi, located in Hattiesburg, Mississippi, in 2011. I transferred into the School of Computing's Computer Science program. During my undergraduate time I was selected for a summer apprenticeship with one of the professors under the U.S. Army Research Office's Undergraduate Research Apprenticeship Program (URAP). More info on my participation in the URAP program can be found under [work experience]({{ site.baseurl }}/work). I also applied to be involved in the honors program. In order to graduate with the latin designation, we were required to do an undergraduate thesis. Info on my undergraduate thesis can be found on the [project page here]({{ site.baseurl }} {% link _posts/2014-04-24-undergraduate-thesis.md %}).
+I transferred to the University of Southern Mississippi, located in Hattiesburg, Mississippi, in 2011. I transferred into the School of Computing's Computer Science program. During my undergraduate time I was selected for a summer apprenticeship with one of the professors under the U.S. Army Research Office's Undergraduate Research Apprenticeship Program (URAP). More info on my participation in the URAP program can be found under [work experience]({{ site.baseurl }}/work). I also applied to be involved in the honors program. In order to graduate with the Latin designation, we were required to do an undergraduate thesis. Info on my undergraduate thesis can be found on the [project page here]({{ site.baseurl }} {% link _posts/2014-04-24-undergraduate-thesis.md %}).
 
-I completed my Bachelors Degree with a 4.0 GPA and received the latin honors designation of _summa cum laude_.
+I completed my Bachelors Degree with a 4.0 GPA and received the Latin honors designation of _summa cum laude_.
 
 {: .box-note}
 **Classes Taken:**

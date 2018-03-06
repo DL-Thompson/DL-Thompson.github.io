@@ -15,7 +15,7 @@ For this project, my partner handled most of the backend compilation code, and I
 - A user account page that kept track of all assignments and score
 - A search toolbar that was able to search through all site content quickly.
 
-Unfortunately, I have currently have no screenshots of the website. This project was created several years ago, and I seem to be missing the database dump file that stored all of our content. I am still looking for it, and I will update further when I find it. The code can be found on [my Github page](). Our final project report is shown below.
+Unfortunately, I have currently have no screen shots of the website. This project was created several years ago, and I seem to be missing the database dump file that stored all of our content. I am still looking for it, and I will update further when I find it. The code can be found on [my Github page](). Our final project report is shown below.
 
 <br>
 <object data="/papers/CSC424-Final-Project.pdf" type="application/pdf" width="100%" height="750">

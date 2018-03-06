@@ -4,6 +4,7 @@ title: Work Experience
 subtitle: This section includes an outline of my work experience and details of the various things I worked on.
 use-site-title: true
 urap_id: UDA3eX4LRe8
+comments: true
 ---
 
 ***
@@ -49,7 +50,7 @@ The objective of this research is to develop a decision theoretic framework for 
 
 Over the first few weeks of the program, we learned basic artificial intelligence techniques that would be used. We focused mostly on the Markov Decision Process and Q-Learning. While initially planning to use [Webots](https://en.wikipedia.org/wiki/Webots), that program was abandoned in favor of a [Kilobot](https://en.wikipedia.org/wiki/Kilobot) simulator called [KBSim](https://github.com/ajhalme/kbsim). We made several modifications to the code of this simulator to better suit our needs. 
 
-Next, we got familiar with the simulator by implementing some simple algorithms. Some of the algorithms used were a foraging algorithm where the kilobots cooperated to search for food. We implented a simple obstacle avoidance algorithm. We also implented the Boids algorithm which simulates animal flocking behavior.
+Next, we got familiar with the simulator by implementing some simple algorithms. Some of the algorithms used were a foraging algorithm where the kilobots cooperated to search for food. We implemented a simple obstacle avoidance algorithm. We also implemented the Boids algorithm which simulates animal flocking behavior.
 
 We spent the next several weeks reviewing many published papers that related to the research we were working on.
 
