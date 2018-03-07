@@ -18,7 +18,7 @@ This is a derivative of the Deep Q-Learning algorithm. In the paper that used th
 OpenAI Gym is a tool for testing reinforcement learning algorithms. It provides several testing environments. In this project, I used the [cart pole problem](https://gym.openai.com/envs/CartPole-v0/) which is a small car that can move left or right in order to balance a pole that it is holding. For the Deep Q-learning algorithm I will be using the full problem that includes cart position, cart velocity, pole angle, and pole velocity. For the Deep Recurrent Q-Learning algorithm, I will be using only cart position and pole position. The LSTM part of the recurrent network will need to "remember" previous positions in order to infer the velocity.
 
 ### Results
-I was able to successfully complete this project. Both algorithms performed successfully. The details can be found in the project paper below.
+I was able to successfully complete this project. Both algorithms performed successfully. The details can be found in the project paper below, and the code can be found on my [Github page.](https://github.com/DL-Thompson/DQN-DRQN-Comparison)
 
 <object data="/papers/COS703-Final-Project.pdf" type="application/pdf" width="100%" height="750">
   Your web browser doesn't have a PDF plugin. Instead you can <a href="/papers/COS703-Final-Project.pdf">click here to download the PDF file.</a>

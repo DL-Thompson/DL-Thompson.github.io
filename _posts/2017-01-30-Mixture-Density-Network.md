@@ -30,4 +30,4 @@ The results of the Mixture Density Network on the previous problems are shown be
 |:--:|:--:|
 |Figure 5|Figure 6|
 
-The code for this project is available on my [Github page.]()
+The code for this project is available on my [Github page.](https://github.com/DL-Thompson/MixtureDensityNetwork)

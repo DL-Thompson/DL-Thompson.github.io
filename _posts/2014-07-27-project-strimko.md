@@ -46,4 +46,4 @@ This assignment was published in the AAAI 14 conference journal. I do not have a
   Your web browser doesn't have a PDF plugin. Instead you can <a href="/papers/strimko_desc.pdf">click here to download the PDF file.</a>
 </object>
 
-The Strimko assignment is listed [on my Github]().
+The Strimko assignment is listed [on my Github](https://github.com/DL-Thompson/Strimko-Solver).

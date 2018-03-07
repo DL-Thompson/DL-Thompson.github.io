@@ -7,7 +7,7 @@ This was my final project for my CSC733 Distributed Database class. This wasn't 
 
 As for the project itself, it was a basic inventory control system. The problem that we were to simulate was a setup of having multiple warehouses with different inventories and a central website used for ordering items. We were encouraged to try out different features of the IBM Cloud platform. I chose to develop my website using Python Flask, Bootstrap, and Cloudant CouchDB. The website I developed was a bare bones proof of concept. The project was focused more on learning and implementing the backend of the distributed database.
 
-The project report showing the website and giving more implementation details can be found below. The code for the project can be found on [my Github page.]()
+The project report showing the website and giving more implementation details can be found below. The code for the project can be found on [my Github page.](https://github.com/DL-Thompson/InventoryShop)
 
 <br>
 <object data="/papers/CSC733-Final-Project.pdf" type="application/pdf" width="100%" height="750">
