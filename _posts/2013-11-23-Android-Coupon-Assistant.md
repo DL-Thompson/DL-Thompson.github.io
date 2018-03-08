@@ -10,4 +10,4 @@ The idea of the project was that customers could scan a product in the store usi
 
 For the PHP side, I created a backend service that could be connected to via the internet. Using this service, coupons could be added or searched. The Android application would scan the item bar code and query the PHP backend with the data. The backend would then return any coupons that matched which were then displayed on the phone.
 
-The code for this project can be found on my [Githun page.](https://github.com/DL-Thompson/AndroidCouponAssistant)
+The code for this project can be found on my [Github page.](https://github.com/DL-Thompson/AndroidCouponAssistant)
