@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lucas Thompson
-subtitle: This website includes information on my programming career. Which includes information about me, my education, and projects I've worked on.
+subtitle: This website includes information on my programming career which includes information about me, my education, and projects I've worked on.
 use-site-title: true
 ---
 
