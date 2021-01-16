@@ -66,10 +66,32 @@ Data Analysis Techniques, Data Handling Techniques, Various in House Seminars fo
 
 ***
 
-### Online Courses
-The following are several online courses and programs I have taken. I plan to list anything I here that I feel is relevant to things I have learned.
+### Other Courses
+The following are various online courses and other programs I have completed.
 
-- **Machine Learning** - Stanford via [Coursera.com](http://www.coursera.com)
-- **Linear Programming** - University of Colorado via [Coursera.com](http://www.coursera.com)
 
+|Course|Institution|Instructor|Platform|Year|Certificate|
+|---|---|---|---|---|---|
+|Machine Learning|Stanford|Andrew Ng|Coursera|2014|[Certificate]({{site.baseurl}}/certificates/cert_machine_learning.pdf)|
+|Linear and Integer Programming|University of Colorado|Sriram Sankaranarayanan, Shalom Ruben|Coursera|2014|[Certificate]({{site.baseurl}}/certificates/cert_linear_programming.pdf)|
+|Introduction to Data Science in Python|University of Michigan|Christopher Brooks|Coursera|2018|[Certificate]({{site.baseurl}}/certificates/cert_intro_ds_python.pdf)|
+|Deep Learning Workshop|Data Science Atlanta Conference 2018|Zsolt Kira|In Person|2018|[Certificate]({{site.baseurl}}/certificates/cert_dl_workshop.jpg)|
+|Applied Plotting, Charting, & Data Representation in Python|University of Michigan|Christopher Brooks|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_plotting_charting.pdf)|
+|Applied Text Mining in Python|University of Michigan|V.G. Vinod Vydiswaran|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_text_mining.pdf)|
+|Applied Social Network Analysis in Python|University of Michigan|Daniel Romero|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_network_analysis.pdf)|
+|Applied Machine Learning in Python|University of Michigan|Kevyn Collins-Thompson|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_applied_ml.pdf)|
+|Neural Networks and Deep Learning|deeplearning.ai|Andrew Ng|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_nn_dl.pdf)|
+|Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization|deeplearning.ai|Andrew Ng|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_parameter_tuning.pdf)|
+|Structuring Machine Learning Projects|deeplearning.ai|Andrew Ng|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_structuring_projects.pdf)|
+|Convolutional Neural Networks|deeplearning.ai|Andrew Ng|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_cnn.pdf)|
+|Sequence Models|deeplearning.ai|Andrew Ng|Coursera|2020|[Certificate]({{site.baseurl}}/certificates/cert_sequence_models.pdf)|
+
+***
+
+### Conferences Attended
+
+|Conference|Location|Year|
+|---|---|---|
+|Association for the Advancement of Artificial Intelligence (AAAI)|Phoenix, AZ|2016|
+|Data Science Atlanta Conference|Atlanta, GA|2018|
 
