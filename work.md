@@ -19,7 +19,7 @@ Scouts Unlimited was a real estate start up based out of Atlanta, Ga where I wor
 
 - A website was created to demo the project idea as part of the funding process. The website was created using Django and many libraries. Website functionality included user authentication with password resets, many separate user roles dividing access to the site, a database for user content, an image upload system, searchable content, and administrative tools.
 
-- As part of the website an object detection algorithm was implemented to in connection to the image upload database. When uploaded, objects in images were detected and tagged. These tags were stored for later use in a classification algorithm that was to be implemented.
+- As part of the website, an object detection algorithm was implemented. When uploaded, objects in images were detected and tagged. These tags were stored for later use in a classification algorithm that was to be implemented.
 
 
 
