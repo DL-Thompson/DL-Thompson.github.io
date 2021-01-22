@@ -7,7 +7,8 @@ use-site-title: true
 
 ### About Me
 
-My name is Lucas Thompson. I am currently located in Hattiesburg, Mississippi where I recently worked and studied at the University of Southern Mississippi. I have decided to leave academia, and I am currently seeking employment in my field.
+
+My name is Lucas Thompson. I currently live in Atlanta, Georgia. I recently moved here from Hattiesburg, Mississippi where I worked and studied at the University of Southern Mississippi.
 
 I graduated summa cum laude from the University of Southern Mississippi in 2014 with a Bachelors Degree in Computer Science and 4.0 GPA. I continued on to obtain a Masters Degree with a 4.0 GPA in Computer Science in 2015, and I began the pursuit of a Ph.D. in Computational Science. After five semesters in the Ph.D. program, I decided to leave and pursue employment. Previous to obtaining my degrees, I spent eight years working in construction, welding, and metal fabrication.
 

@@ -9,6 +9,22 @@ comments: true
 
 ***
 
+### Web Development and AI Research (Dec 2018 - May 2019)
+
+- Scouts Unlimited LLC - Atlanta, Ga
+
+Scouts Unlimited was a real estate start up based out of Atlanta, Ga where I worked remote from my home in Mississippi. This was an early stage startup that has since shelved the project. However, due to the possibility the project may be revisited, I can't give exact details on the business model the company was pursuing. However, I can list some of my general duties.
+
+- I participated in weekly strategy sessions to guide the direction of machine learning within the company. These sessions involved discussion of ideas and how machine learning could be used to implement them. Roadmaps were created for these ideas that explained what in depth actions would need to be taken to implement them.
+
+- A website was created to demo the project idea as part of the funding process. The website was created using Django and many libraries. Website functionality included user authentication with password resets, many separate user roles dividing access to the site, a database for user content, an image upload system, searchable content, and administrative tools.
+
+- As part of the website an object detection algorithm was implemented to in connection to the image upload database. When uploaded, objects in images were detected and tagged. These tags were stored for later use in a classification algorithm that was to be implemented.
+
+
+
+***
+
 ### Graduate Research Assistant (Jun 2014 - Aug 2017)
 
  - University of Southern Mississippi - Hattiesburg, MS
